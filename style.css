@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: blue;
+    background-color: pink;
 }
 .container {
     background-color: antiquewhite;
@@ -39,3 +39,43 @@ body{
     outline: none;
     color: darkolivegreen;
 }
+#result {
+    margin-top: 1.25em;
+}
+.container .flag-img{
+display: block;
+width: 45%;
+min-width: 7.5em;
+margin: 1.8em auto 1.2em auto;
+
+}
+.container h2{
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 1.8em;
+}
+.data-wrapper{
+    margin-bottom: 1em;
+    letter-spacing: 0.3;
+}
+.container h4{
+    display: inline;
+    font-weight: 500;
+    color: black;
+}
+.container span{
+    color: red;
+}
+
+
+.container h3{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: brown;
+}
+
+
